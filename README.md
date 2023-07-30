@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [www.weiweilin.dev](www.weiweilin.dev)
+- 👨‍💻 Some of my projects are available at [www.weiweilin.dev](www.weiweilin.dev)
 
 - 📫 How to reach me **w1216lin@gmail.com**
 
