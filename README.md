@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Weiwei Lin</h1>
 <h3 align="center">Frontend Engineer</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native** **Django**
 
 - 👨‍💻 Some of my projects are available at [www.weiweilin.dev](www.weiweilin.dev)
 
